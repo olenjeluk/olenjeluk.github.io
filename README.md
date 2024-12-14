@@ -2,6 +2,9 @@
 
 This project leverages **CesiumJS** to create a powerful 3D viewer for visualizing various assets from **Cesium Ion**. It includes features for loading 3D tilesets, GeoJSON data, dynamic terrain handling, interactive 3D models, and search functionality for querying features based on unique properties.
 
+## Link Public Aplikasi
+https://olenjeluk.github.io/
+
 ## Features
 
 - **Dynamic Terrain and Asset Loading**: Fly to different locations with varying terrain and tileset assets from Cesium Ion using their asset IDs.
